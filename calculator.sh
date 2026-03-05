@@ -4,4 +4,7 @@ Addition
 x=a+b
 
 Substraction
-x=a-b
+x=a-bi
+
+Multiplication
+x=a*b
